@@ -1,5 +1,4 @@
 # Currency-Converter
-# Currency-Converter
 
 ## Информация об авторе
 **Добрусин Игорь**
